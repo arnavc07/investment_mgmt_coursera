@@ -1,0 +1,49 @@
+# Data manipulation and analysis
+pandas
+numpy
+scipy
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Machine learning and deep learning
+scikit-learn
+tensorflow
+keras
+torch
+xgboost
+lightgbm
+catboost
+
+# Natural language processing
+nltk
+spacy
+transformers
+
+# Web scraping
+beautifulsoup4
+requests
+scrapy
+
+# Database interaction
+sqlalchemy
+pymysql
+psycopg2
+
+# Jupyter and other interactive environments
+jupyterlab
+notebook
+ipython
+
+# Utilities
+tqdm
+pillow
+openpyxl
+
+# Testing
+pytest
+
+# Configuration
+pyyaml
