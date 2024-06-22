@@ -1,0 +1,36 @@
+name: myenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.12
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - plotly
+  - scikit-learn
+  - tensorflow
+  - keras
+  - torch
+  - xgboost
+  - lightgbm
+  - catboost
+  - nltk
+  - spacy
+  - transformers
+  - beautifulsoup4
+  - requests
+  - scrapy
+  - sqlalchemy
+  - pymysql
+  - psycopg2
+  - jupyterlab
+  - notebook
+  - ipython
+  - tqdm
+  - pillow
+  - openpyxl
+  - pytest
+  - pyyaml
